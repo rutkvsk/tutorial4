@@ -13,5 +13,9 @@ public void addEvent(Event event) {
 public void addEvent(String name, String date) {
     this.events = name;
 }
+
+
+
+
 public void addCustomer(Customer customer) {}
 }
